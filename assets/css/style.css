@@ -275,6 +275,7 @@ footer div {
     animation: heartbeat 1s infinite;
     margin:0 auto
 }
+
     @keyframes heartbeat
     {
       0%
